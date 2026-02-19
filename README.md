@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm João Victor Pazotti Silva  👋</h1>
 
 ## About me:
-* Computer Engineering Student at Insper
+* Computer Engineering Graduate at Insper
+* Data Engineer at IBM
 * Living in São Paulo, Brazil
-* Invested in learning and working on Data Science and Web/App Development
+* Invested in learning and working on Data Science and Web/Mobile Development
 
  ### Tools and Languages
 
